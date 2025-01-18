@@ -1,0 +1,26 @@
+{
+    "contact": {
+        "address": "#19 IKOT UDOMA RD., IKOT IBIOK OFF EKET ORON RD., EKET.",
+        "phone": "+234 8146 339 697",
+        "email": "oneframemedia001@gmail.com"
+    },
+    "socialLinks": {
+        "instagram": "https://instagram.com",
+        "facebook": "https://facebook.com",
+        "youtube": "https://youtube.com",
+        "linkedin": "https://linkedin.com"
+    },
+    "gallery": [
+        "img/classes-1.jpg",
+        "img/classes-2.jpg",
+        "img/classes-3.jpg",
+        "img/classes-4.jpg",
+        "img/classes-5.jpg",
+        "img/classes-6.jpg"
+    ],
+    "footerText": {
+        "copyrightName": "Mercy Land",
+        "designerName": "1Frame SMS",
+        "designerLink": "https://htmlcodex.com"
+    }
+}
